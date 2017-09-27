@@ -1,0 +1,13 @@
+{
+  "name": "TodayAnnouncement",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./TodayAnnouncement.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coolflyreg/systemdesigner"
+  },
+  "dependencies": {
+    "system-runtime": "^2.0.0"
+  }
+}
