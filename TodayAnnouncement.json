@@ -1,0 +1,1 @@
+{"name":"TodayAnnouncement","master":true,"version":"0.0.1","description":"","schemas":{},"models":{},"behaviors":{"h1a3fb170db14c48":{"_id":"h1a3fb170db14c48","component":"n1145613b8a19f61","state":"start","action":"function start() { \n\t\n}","useCoreAPI":false,"core":false}},"types":{},"components":{},"_id":"n1145613b8a19f61"}
